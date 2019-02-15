@@ -54,12 +54,3 @@ while retry:
 
     choice_3 = raw_input("Insert coin? (press Enter)")
     retry = True if choice_3 == "" else False
-
-
-
-
-
-
-
-
-
